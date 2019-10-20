@@ -1,0 +1,15 @@
+* What
+  This is my First Kotlin app for android, following the tutorial at
+  https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/,
+  That simple application just keeps some counters and passes those
+  around through a couple of views.
+
+* Why
+  Getting familiar with kotlin and the whole Android framework and
+  toolchain.
+
+* When
+  A weekend on Oct 2019
+
+* Who
+  Raimon Grau <raimonster@gmail.com>

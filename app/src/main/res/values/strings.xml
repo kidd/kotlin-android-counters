@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="this_is_centered">0</string>
+    <string name="random_view_text">Here is a random number beteween 0 and %1d.</string>
+
+</resources>
